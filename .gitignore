@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/*.db
+audio/output/
+audio/cache/
+logs/*.log
+models/*
+!models/.gitkeep
+.vscode/

@@ -1,0 +1,19 @@
+{
+  "server": {"host": "127.0.0.1", "port": 8765},
+  "llm": {
+    "provider": "ollama",
+    "base_url": "http://127.0.0.1:11434",
+    "api_key": "",
+    "model": "qwen3:4b",
+    "temperature": 0.8,
+    "max_tokens": 300,
+    "timeout_seconds": 120
+  },
+  "tts": {
+    "enabled": false,
+    "engine": "pyttsx3",
+    "rate": 180,
+    "volume": 1.0
+  },
+  "memory": {"recent_messages": 12, "max_memories": 8}
+}

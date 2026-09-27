@@ -1,6 +1,7 @@
 # FJAI V1
 
 Neuro-sama 风格 AI VTuber V1 原型。
+（异想天开版）
 
 功能：
 - Web 聊天 UI
